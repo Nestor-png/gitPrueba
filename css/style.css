@@ -1,0 +1,12 @@
+body {
+    background-color: cadetblue;
+    font-family: cursive;
+    padding: 0%;
+    border: 0cm;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+}
